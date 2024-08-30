@@ -1,1 +1,0 @@
-console.log("bogdan je peder")
