@@ -10,14 +10,16 @@
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) - a python gui library; used to rendera application window where the camera feed as well as the hightlighted objects are displayed
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) - also a python library with many automation capabilities; here I use it for taking screenshots of the application window and saving them into computer memory
 
+# Installing Libraries
+
+```
+$ pip install -r requirements.txt
+```
+
 # Coloring Schema
 
-| Square Color             |  Object                   |
-|--------------------------|---------------------------|
+| Square Color             | Object                    |
+| ------------------------ | ------------------------- |
 | $${\color{red}Red}$$     | $${\color{red}Eyes}$$     |
 | $${\color{blue}Blue}$$   | $${\color{blue}Profile}$$ |
-| $${\color{green}Green}$$ | $${\color{green}Face}$$   | 
-
-
-
- 
+| $${\color{green}Green}$$ | $${\color{green}Face}$$   |
