@@ -16,7 +16,7 @@
 |---------------|----------|
 | Red           | Eyes     |
 | Blue          | Profile  |
-| Green         | Face     | 
+| Green         | Face     | there are 3 green squares for 3 different face detection data sets
 
- - there are 3 green squares for 3 different face detection data sets
 
+ 
