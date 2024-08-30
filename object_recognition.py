@@ -129,7 +129,3 @@ canvas.pack()
 update()
 root.mainloop()
 videoCapture.release()
-
-# Taking and saving a screenshot with py auto gui
-s = screenshot()
-s.save(r"screenshots/s.jpeg")
