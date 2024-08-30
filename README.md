@@ -12,14 +12,11 @@
 
 # Coloring Schema
 
-|---------------|----------|
 | Square Color  |  Object  |
 |---------------|----------|
 |     Red       |  Eyes    |
 |     Blue      |  Profile |
 |     Green     |  Face    | 
-|---------------|----------|
-
 
  - there are 3 green squares for 3 different face detection data sets
 
