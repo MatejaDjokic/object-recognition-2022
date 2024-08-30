@@ -12,11 +12,11 @@
 
 # Coloring Schema
 
-| Square Color  |  Object  |
-|---------------|----------|
-| Red           | Eyes     |
-| Blue          | Profile  |
-| Green         | Face     | 
+|               Square Color               |  Object  |
+|------------------------------------------|----------|
+| <code style="color : red">Red</code>     | Eyes     |
+| <code style="color : blue">Blue</code>   | Profile  |
+| <code style="color : green">Green</code> | Face     | 
 
 
 
