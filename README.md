@@ -12,11 +12,11 @@
 
 # Coloring Schema
 
-| Square Color             |  Object  |
-|--------------------------|----------|
-| $${\color{red}Red}$$     | Eyes     |
-| $${\color{blue}Blue}$$   | Profile  |
-| $${\color{green}Green}$$ | Face     | 
+| Square Color             |  Object                     |
+|--------------------------|-----------------------------|
+| $${\color{red}Red}$$     | $${\color{red}Eyes}$$       |
+| $${\color{blue}Blue}$$   | $${\color{blue}Profile}$$   |
+| $${\color{green}Green}$$ | $${\color{green}Face}$$Face | 
 
 
 
